@@ -45,7 +45,7 @@ const start = () => {
 
    function grassAnimation(){
         grass.classList.add('grass-animation');
-            }setInterval(grassAnimation, 10000);
+            }setInterval(grassAnimation, 5000);
 
 
     function floorAnimation1(){
